@@ -10,7 +10,7 @@
 			<key>Regular Expression</key>
 			<string>\s?(\w+)\s?</string>
 			<key>Title</key>
-			<string>Google</string>
+			<string>Vocabulary.com</string>
 			<key>URL</key>
 			<string>https://www.vocabulary.com/dictionary/{popclip text}</string>
 		</dict>
