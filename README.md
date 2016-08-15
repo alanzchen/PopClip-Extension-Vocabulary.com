@@ -4,7 +4,7 @@ A simple [PopClip](http://pilotmoon.com/popclip/extensions/) extension that look
 
 # Installation
 
-Clone this repo, and open the .popclipextension file. You will be asked to confirm installing this *unsigned* extension. 
+Clone this repo, and open the `.popclipext` file. You will be asked to confirm installing this *unsigned* extension. 
 
 OPTIONAL : You may want to run 
 `defaults write com.pilotmoon.popclip LoadUnsignedExtensions -bool YES`
